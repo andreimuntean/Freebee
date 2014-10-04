@@ -106,8 +106,8 @@ void store(int word[])
         {
             values[valuesCount][i] = word[i];
         }
-
-	    ++valuesCount;
+        
+        ++valuesCount;
     }
 }
 
